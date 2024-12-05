@@ -1,0 +1,6 @@
+id=Zram_Lz4_Enable
+name=Zram Lz4 Enable
+version=v1
+versionCode=1
+author=ggeo-git
+description=Modify the zram compression algorithm to lz4 (if possible!)

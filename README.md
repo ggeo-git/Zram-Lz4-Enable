@@ -16,4 +16,4 @@ Lower compression ratio, storing less data in ZRAM.
 
 ____________________
 
-Melhor para melhorar a responsividade em dispositivos com alta pressão de memória e baixo poder de CPU.
+Best for improving responsiveness on devices with high memory pressure and low CPU power.
